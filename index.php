@@ -1,7 +1,7 @@
 <?php
 
-	echo "Olá mundo 456!";
+	echo "Olá mundo 1 2 3!";
 	
-	echo "Olá Udemy";
+	echo "Olá Udemy e Hcode";
 
 ?>
